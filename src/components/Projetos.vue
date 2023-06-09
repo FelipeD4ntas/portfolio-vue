@@ -277,6 +277,10 @@ export default {
 
 
 <style>
+.custom-carrousel {
+  overflow: hidden !important;
+}
+
 .custom-carrousel .p-carousel-content {
   margin: 0 -80px;
 }
@@ -402,6 +406,10 @@ video:hover {
 }
 
 @media (max-width: 768px) {
+  .custom-carrousel .p-carousel-content {
+    margin: 0 -50px;
+  }
+
   .custom-icon {
     top: 73%;
     max-width: 50px;
