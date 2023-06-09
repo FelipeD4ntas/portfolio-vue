@@ -277,7 +277,7 @@ export default {
 
 
 <style>
-.custom-carrousel.p-carousel-content {
+.custom-carrousel .p-carousel-content {
   margin: 0 -80px;
 }
 
