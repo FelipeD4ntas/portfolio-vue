@@ -4,6 +4,7 @@
       <h1 class="text-7xl font-bold text-700 text-center">Meus projetos</h1>
   </div>
   <Carousel  
+    class="custom-carrousel"
     :nextButtonProps="{ 'aria-label': 'Próxima página', innerHTML: customNextLabel, class: 'custom-icon proximo'}" 
     :prevButtonProps="{ 'aria-label': 'Página anterior', innerHTML: customPrevLabel, class: 'custom-icon anterior' }" 
     :value="projetos" :numVisible="2" :numScroll="2" :responsiveOptions="responsiveOptions" circular>
@@ -276,6 +277,10 @@ export default {
 
 
 <style>
+.custom-carrousel {
+  min-width: 100vw;
+}
+
 figure {
   width: 100%;
   height: 80vh;
