@@ -277,8 +277,8 @@ export default {
 
 
 <style>
-.custom-carrousel {
-  min-width: 100vw;
+.custom-carrousel.p-carousel-content {
+  margin: 0 -80px;
 }
 
 figure {
@@ -368,12 +368,12 @@ video:hover {
 }
 
 .proximo {
-  right: 50px;
+  right: 100px;
   animation: slideDireita 1s alternate infinite;
 }
 
 .anterior {
-  left: 50px;
+  left: 100px;
   animation: slideEsquerda 1s alternate infinite;
 }
 
