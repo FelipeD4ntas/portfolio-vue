@@ -90,7 +90,7 @@ export default {
           nome: 'Projeto Flex Blog',
           link: 'https://feliped4ntas.github.io/projeto_flex-blog/',
           video: '/assets/images/videosProjetos/projetoFlexBlog.mp4',
-          capa: '/assets/images/capasProjetos/projetoFlexBlog.png',
+          capa: '/assets/images/capasProjetos/ProjetoFlexBlog.png',
           titulo: 'Página web feita para demonstrar o uso do display Flex em CSS.',
           detalhes: [
             'Uso de formulários.'
