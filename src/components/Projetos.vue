@@ -8,7 +8,7 @@
     :prevButtonProps="{ 'aria-label': 'Página anterior', innerHTML: customPrevLabel, class: 'custom-icon anterior' }" 
     :value="projetos" :numVisible="2" :numScroll="2" :responsiveOptions="responsiveOptions" circular>
     <template #item="slotProps">
-      <figure class="mt-7 relative overflow-hidden flex w-full">
+      <figure class="mt-7 relative overflow-hidden flex">
             <a :href="slotProps.data.link" target="_blank">
               <video 
                 @mouseover="playVideo($event)" 
