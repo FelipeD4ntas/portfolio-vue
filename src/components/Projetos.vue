@@ -353,6 +353,7 @@ figcaption li:hover span::before {
 video {
   width: 100%;
   max-height: 450px;
+  min-height: 177px;
   filter: grayscale(80%);
   z-index: 3;
 }
