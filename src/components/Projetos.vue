@@ -301,6 +301,7 @@ figure {
 
 figure a {
   background: #1E1E1E;
+  max-height: 450px;
 }
 
 figcaption {
