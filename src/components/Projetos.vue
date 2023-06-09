@@ -259,6 +259,21 @@ export default {
             'Docker'
           ]
         },
+        {
+          nome: 'Projeto Locaweb',
+          link: 'https://projeto-loca-web.vercel.app',
+          video: '/assets/images/videosProjetos/projetoLocweb.mp4',
+          capa: '/assets/images/capasProjetos/projetoLocweb.png',
+          titulo: 'Projeto desenvolvido usando Vue e consumindo uma API externa',
+          detalhes: [
+            'Vue',
+            'Vuetify',
+            'Axios',
+            'Fake Store Api',
+            'Vue validate',
+            'Vue the mask'
+          ]
+        },
       ]
     }
   },
