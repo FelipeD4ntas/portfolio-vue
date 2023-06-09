@@ -5,7 +5,7 @@
         <p>
           Olá! Atualmente estou cursando Sistemas de Informação. 
           <br>Sou uma pessoa extremamente dedicada e apaixonada por tecnologia, sempre buscando me atualizar e aprender novas habilidades. Quando aprendo algo novo, faço questão de desenvolver um projeto relacionado ao assunto, com o objetivo de aprimorar minhas habilidades e me desafiar a ir além.
-          <br>Uma das minhas maiores aspirações é ser fluente em diversas linguagens de programação, o que me permitirá ser ainda mais útil para a empresa que me contratar e desenvolver uma grande variedade de projetos. Acredito que a tecnologia é uma ferramenta poderosa para solucionar problemas, e estou sempre buscando novas formas de aplicar meus conhecimentos para resolver desafios cada vez mais complexos.
+          <br>Uma das minhas maiores aspirações é ser fluente em diversas linguagens de programação e desenvolver uma grande variedade de projetos, o que me permitirá ser ainda mais útil para a empresa que me contratar. Acredito que a tecnologia é uma ferramenta poderosa para solucionar problemas, e estou sempre buscando novas formas de aplicar meus conhecimentos para resolver desafios cada vez mais complexos.
           <br>Além da tecnologia, tenho um grande amor por animais e costumo dedicar parte do meu tempo livre para cuidar dos meus pets. Também adoro experimentar novas tecnologias e explorar áreas com as quais não tenho tanto contato no meu dia a dia, para ampliar meu conhecimento e aprimorar minhas habilidades.
           <br><br>Estou animado para continuar minha jornada na área de tecnologia e acredito que posso trazer muito valor para qualquer empresa que me contratar, com minha dedicação, proatividade e vontade de aprender.
         </p>
